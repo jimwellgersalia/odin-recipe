@@ -4,8 +4,11 @@ A project that build basic recipe website.
 
 This demonstrates my knowledge on the ff:
 Git
-Html boilerplate
-Heading, paragraph
-Ordered & Unordered List
-Links and Images
-Connecting web pages using links
+<ul>
+    <li>Html boilerplate</li>
+    <li>Heading, paragraph tag</li>
+    <li>Ordered & Unordered List</li>
+    <li>Links and Images</li>
+    <li>Connecting web pages using links</li>
+    <li>Viewing website live using git</li>
+</ul>
