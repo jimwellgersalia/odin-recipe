@@ -3,8 +3,9 @@
 A project that build basic recipe website.
 
 This demonstrates my knowledge on the ff:
-Git
+
 <ul>
+    <li>Git</li>
     <li>Html boilerplate</li>
     <li>Heading, paragraph tag</li>
     <li>Ordered & Unordered List</li>
