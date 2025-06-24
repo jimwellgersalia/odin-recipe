@@ -2,4 +2,10 @@
 
 A project that build basic recipe website.
 
-Demonstrate all the knowledge on HTML Basics
+This demonstrates my knowledge on the ff:
+Git
+Html boilerplate
+Heading, paragraph
+Ordered & Unordered List
+Links and Images
+Connecting web pages using links
