@@ -1,0 +1,33 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: fit-content;
+    background-color: rgb(229, 224, 216);
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    border: 2px solid black;
+
+}
+
+.home {
+    text-decoration: none;
+    font-size: 30px;
+    color: darkgoldenrod;
+    padding-left: 520px;
+}
+
+.headline {
+    padding: 20px;
+    text-align: center;
+}

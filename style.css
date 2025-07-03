@@ -1,0 +1,63 @@
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 16px auto;
+    background-color: rgb(229, 224, 216);
+}
+
+.container {
+    width: 700px;
+    height: auto;
+    border: 2px solid black;
+    background-color: rgb(116, 136, 115);
+    margin: 40px auto;
+    padding: 10px;
+}
+
+.title {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(221, 201, 180);
+    font-size: 60px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+
+.description {
+    padding-left: 20px;
+    font-size: 25px;
+    color: rgb(221, 201, 180);
+    font-style: italic;
+
+}
+
+.recipe {
+    list-style: none;
+    padding: 10px;
+    text-align: center;
+}
+
+.recipe-list {
+    font-family: Garamond, sans-serif;
+    padding: 8px;
+    font-size: 25px;
+    border: 1px solid rgb(221, 201, 180);
+    margin-bottom: 10px;
+}
+
+.recipe-link {
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(248, 248, 248);
+}
+
+.recipe-link:hover {
+    color: rgb(229, 224, 216);
+    background-color: rgba(116, 136, 115, 0.6);
+}
