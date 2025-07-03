@@ -30,4 +30,38 @@ body{
 .headline {
     padding: 20px;
     text-align: center;
+    font-size: 45px;
+}
+
+.food-image {
+    width: 400px;
+    margin-left: 90px;
+    margin-bottom: 10px;
+    border: 2px solid rgb(116, 136, 115);
+
+}
+
+.description {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 21px;
+}
+
+.ingredient {
+    margin: 10px;
+    font-size: 35px;
+
+}
+
+.recipe-ingredient {
+    list-style: square;
+    margin: 25px;
+    font-size: 18px;
+}
+
+.recipe-list {
+    padding: 5px;
 }
